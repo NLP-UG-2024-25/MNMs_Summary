@@ -71,6 +71,8 @@ For instance:
 
 Psycholinguistic studies support the superiority of **verbal structures** for comprehension, yet **social expectations** sometimes favor the **nominal style**, highlighting a contradiction in how the `maxim of manner` is applied (2009:60-61).
 ---
+=======
+
 
 ### Subjectivity of maxims and interpretation
 The **cooperative principle** and its maxims, including manner, are subject to interpretation.
