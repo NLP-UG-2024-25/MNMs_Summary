@@ -28,12 +28,38 @@ Meyer (2009: 54) explains the felicity based on the example of apology.
 While every speech act must meet all the necessary conditions to be successful, different types of speech acts often fulfill these conditions in distinct ways.
 ***WORK IN PROGRESS***
 
-The discussion then shifts to the maxim of manner, which emphasizes the value of clarity in both speech and writing. In formal contexts such as academic lectures or public talks, speakers often employ metadiscourse – explicit structural cues like “My talk will be split into four sections” – to guide their audience and provide a clear framework, especially when no written text is available (2009:59). In contrast, spontaneous or informal conversations generally avoid such explicit organization, since “such dialogues have a fairly loose organizational structure” (2009:59).
-Writing also experiences tension between clarity and stylistic preference. A direct, verb-centered style is clearer and easier to process, whereas an abstract nominal style may appear more intellectually sophisticated. For instance, “The ABC allocates and apportions the revenue” is clearer than “The functions of allocating and apportioning revenue are performed by the ABC” (2009:60). Psycholinguistic studies support the superiority of verbal structures for comprehension, yet social expectations sometimes favor the nominal style, highlighting a contradiction in how the maxim of manner is applied (2009:60-61).
-The cooperative principle and its maxims, including manner, are subject to interpretation. For example, Floyd Landis’s denial of doping – “I have never taken any banned substance, including testosterone” – can be seen either as adherence to or violation of the maxim of quality, depending on the listener’s belief (2009:61). Similarly, an evasive answer may simultaneously violate the maxims of quantity and manner, but such judgments are often subjective (2009:61).
-To address these interpretive challenges, Relevance Theory, developed by Sperber and Wilson, proposes that communication seeks “optimal relevance”, balancing cognitive effort with contextual payoff. For instance, telling a guest with a chicken allergy “We are serving chicken” is more relevant than simply saying “We are serving meat” (2009:61), due to the clearer and more personally meaningful information provided.
-The chapter concludes with a discussion of politeness, based on Brown and Levinson’s theory of face – “the public self-image that every member wants to claim for himself” (2009:62). Polite language aims to mitigate face-threatening acts (FTAs), with strategies shaped by power dynamics, social distance, and the severity of the FTA. For instance, titles like Professor or Dr. signal power differences, while first names or endearments like “honey” and “sweetheart” are reserved for equals or intimates (2009:62-64). English, unlike many Indo-European languages, no longer distinguishes formal and informal second-person pronouns (e.g., tu vs vous in French), making it unique in this respect (2009:65).
-This section reinforces the book’s broader claim: meaning is not just semantic but also pragmatic, deeply influenced by context, speaker intention, and social interaction.
+### The maxim of manner and clarity in communication
+The discussion then shifts to the `maxim of manner`, which emphasizes the value of **clarity** in both speech and writing. In formal contexts such as academic lectures or public talks, speakers often employ **metadiscourse** – explicit structural cues like “My talk will be split into four sections” – to guide their audience and provide a clear framework, especially when no written text is available (2009:59). In contrast, spontaneous or informal conversations generally avoid such explicit organization, since “such dialogues have a fairly loose organizational structure” (2009:59).
+---
+
+### Writing: clarity vs. style
+Writing also experiences tension between **clarity** and **stylistic preference**. A direct, **verb-centered** style is clearer and easier to process, whereas an abstract **nominal** style may appear more intellectually sophisticated. 
+
+For instance: 
+- “The ABC allocates and apportions the revenue”
+- “The functions of allocating and apportioning revenue are performed by the ABC” (2009:60). 
+
+Psycholinguistic studies support the superiority of **verbal structures** for comprehension, yet **social expectations** sometimes favor the **nominal style**, highlighting a contradiction in how the `maxim of manner` is applied (2009:60-61).
+---
+
+### Subjectivity of maxims and interpretation
+The **cooperative principle** and its maxims, including manner, are subject to interpretation.
+ Example, Floyd Landis’s denial of doping:
+> *“I have never taken any banned substance, including testosterone”*
+This can be seen either as **adherence to** or **violation of the maxim of quality**, depending on the listener’s belief (2009:61). Similarly, an **evasive answer** may simultaneously violate the maxims of **quantity** and **manner**, but such judgments are often **subjective** (2009:61).
+---
+
+### Relevance Theory
+To address these interpretive challenges, **Relevance Theory**, developed by **Sperber and Wilson**, proposes that communication seeks **“optimal relevance”** – balancing **cognitive effort** with **contextual payoff**. For instance, telling a guest with a chicken allergy “We are serving chicken” is more relevant than simply saying “We are serving meat” (2009:61), due to the clearer and more personally meaningful information provided.
+---
+
+### Politeness and face theory
+The chapter concludes with a discussion of **politeness**, based on **Brown and Levinson’s theory of face** – “the public self-image that every member wants to claim for himself” (2009:62). 
+Polite language aims to **mitigate face-threatening acts (FTAs)**, with strategies shaped by:
+- **power dynamics**
+- **social distance**
+- **severity of the FTA**. 
+For instance, titles like *Professor* or *Dr.* signal **power differences**, while first names or endearments like “honey” and “sweetheart” are reserved for equals or intimates (2009:62-64). English, unlike many Indo-European languages, no longer distinguishes formal and informal second-person pronouns (e.g., *tu* vs *vous* in French), making it **unique** in this respect (2009:65).
 
 
 
