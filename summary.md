@@ -26,15 +26,37 @@ The author focuses on the explicit/implicit categorization, stating that the exp
 | You guys I **am** sorry that I was late.            | implicit       | non-performative verb "to be"    |
 
 Simply speaking, this distinction is founded in the fact that the verb "to apologize" can be considered as more direct, precise, and expressive than the verb "to be".
-Meyer also mentions Searle's fairly detailed approach to speech act theory (1969), who proposes four conditions that need to be satisfied for a speech act to be successful: propositional content, preparatory, sincerity, and essential. Those are also called felicity or appropriateness conditions. 
+### Felicity
+Meyer also mentions Searle's fairly detailed approach to speech act theory (1969), which proposes four conditions that need to be satisfied for a speech act to be successful: propositional content, preparatory, sincerity, and essential. Those are also called felicity or appropriateness conditions. 
 Meyer (2009: 54) explains the felicity based on the example of apology.
-“*Propositional condition:* Any speech act has to have propositional content, i.e., be expressed in a form conventionally associated with the speech act.
-*Preparatory condition*: Before making an apology, the speaker obviously has to believe that he/she has done something requiring an apology.
-*Sincerity condition:* A key component of any apology is that the speaker be sincerely sorry for what he/she has done.
-*Essential condition:* If the apology is not perceived as sincere, then the speech act will ultimately fail: while it may have the form of an apology and be directed towards some past situation requiring an apology, if it is not accepted as an apology, the speech act becomes meaningless.” (2009: 54).
+“* 
+* *Propositional condition:* Any speech act has to have propositional content, i.e., be expressed in a form conventionally associated with the speech act.
+* *Preparatory condition*: Before making an apology, the speaker obviously has to believe that he/she has done something requiring an apology.
+* *Sincerity condition:* A key component of any apology is that the speaker be sincerely sorry for what he/she has done.
+* *Essential condition:* If the apology is not perceived as sincere, then the speech act will ultimately fail: while it may have the form of an apology and be directed towards some past situation requiring an apology, if it is not accepted as an apology, the speech act becomes meaningless.” (2009: 54).
 While every speech act must meet all the necessary conditions to be successful, different types of speech acts often fulfill these conditions in distinct ways.
-***WORK IN PROGRESS***
+## The cooperative principle 
+Philosopher **H. Paul Grice** proposed the **Cooperative Principle** to explain how people work together in conversation. He observed that communication usually involves **a shared purpose or direction** (Grice 1989: 26), and participants cooperate to make exchanges meaningful.
 
+Grice identified four rules, or **maxims**, that people generally follow:
+
+1. **Quantity**  
+   Say the right amount – not too little, not too much.
+
+2. **Quality**  
+    Be truthful.
+
+3. **Relation**  
+    Stay relevant – do not digress.
+
+4. **Manner**  
+    Be clear and avoid ambiguity.
+### The maxim of quantity
+The author states that all communicants "must strike a balance between providing too much and too little information when they speak or write" (Meyer 2009: 57). He gives an example of a dialogue in which the speakers apply this by answering each other's questionswithout exceeding the amount of detail that would be expected.
+### The maxim of quality 
+In a conversation, there usually is an assumption that the other party is being truthful. However, there are certain situations in which violating this assumption is considered acceptable. Meyer (2009: 58) gives an example of being asked whether we like someone's new hairstyle. In such situation, saying "No" is usually not appropriate, even if it is the truth. As the author states, " politeness is such an important pragmatic concept in English that it overrides other pragmatic considerations" (2009: 58).
+### The maxim of relation
+The author highlights how context-dependent this maxim is by contrasting an example of a casual conversation and a lecture. In a conversation, speakers can change the topic freely, without announcing it in any way, since a conversation usually does not have pre-planned subject. However, a lecturer would be expected to stay on topic; when they do not, they might be taken as underprepared and disorganized.
 ### The maxim of manner and clarity in communication
 The discussion then shifts to the `maxim of manner`, which emphasizes the value of **clarity** in both speech and writing. In formal contexts such as academic lectures or public talks, speakers often employ **metadiscourse** – explicit structural cues like “My talk will be split into four sections” – to guide their audience and provide a clear framework, especially when no written text is available (2009:59). In contrast, spontaneous or informal conversations generally avoid such explicit organization, since “such dialogues have a fairly loose organizational structure” (2009:59).
 ---
