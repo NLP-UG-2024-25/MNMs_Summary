@@ -50,7 +50,7 @@ To address these interpretive challenges, **Relevance Theory**, developed by **S
 ---
 
 ### Politeness and face theory
-The chapter concludes with a discussion of **politeness**, based on **Brown and Levinson’s theory of face** – “the public self-image that every member wants to claim for himself” (2009:62). 
+The chapter concludes with a discussion of **politeness**, based on Brown and Levinson’s theory of [face](https://en.wikipedia.org/wiki/Face_(sociological_concept)) – “the public self-image that every member wants to claim for himself” (2009:62). 
 Polite language aims to **mitigate face-threatening acts (FTAs)**, with strategies shaped by:
 - **power dynamics**
 - **social distance**
