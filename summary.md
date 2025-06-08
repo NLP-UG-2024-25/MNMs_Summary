@@ -59,6 +59,7 @@ Polite language aims to **mitigate face-threatening acts (FTAs)**, with strategi
 - **power dynamics**
 - **social distance**
 - **severity of the FTA**. 
+
 For instance, titles like *Professor* or *Dr.* signal **power differences**, while first names or endearments like “honey” and “sweetheart” are reserved for equals or intimates (2009:62-64). English, unlike many Indo-European languages, no longer distinguishes formal and informal second-person pronouns (e.g., *tu* vs *vous* in French), making it **unique** in this respect (2009:65).
 
 
