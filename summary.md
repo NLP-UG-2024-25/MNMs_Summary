@@ -93,34 +93,33 @@ For instance, titles like *Professor* or *Dr.* signal **power differences**, whi
 
 
 
-Levels of Impoliteness, Face-Threatening Acts (FTAs), and Tact
+### Levels of Impoliteness, Face-Threatening Acts (FTAs), and Tact
 The subchapter explores how levels of impoliteness and face-threatening acts (FTAs) are influenced not only by social factors such as power dynamics and social distance but also by the speaker's willingness to engage in an FTA. The example of telling a guest directly to leave versus using a more indirect strategy illustrates how speakers often mitigate potentially impolite utterances by employing polite language. This practice relates closely to Geoffrey Leech’s (1983) concept of tact, a key component of his politeness principle.
 
 * Example: Saying “You’ve been here long enough. Leave!” is direct and impolite, while “I have to get up early… let’s call it a night” softens the message.
 
-Leech’s Tact Maxim (1983)
+#### Leech’s Tact Maxim (1983)
 
 Leech’s tact maxim operates on two polarities: minimizing the cost to the hearer (negative tact) and maximizing the benefit to the hearer (positive tact). These principles primarily apply to two categories of speech acts: directives, which aim to get the hearer to perform an action, and commissives, which commit the speaker to a future act. Leech argues that these acts can be placed along a cost–benefit scale. For instance, a directive such as "Peel these potatoes" is potentially impolite because it imposes a high cost on the hearer, whereas a more generous directive like "Have another sandwich" is considered polite due to its perceived benefit to the hearer.
 
 
-> Cost–Benefit Scale:
+> **Cost–Benefit Scale:**
 > * Imperative like “Peel these potatoes” = high cost to hearer → less polite.
 > * Imperative like “Have another sandwich” = low cost, high benefit → more polite.
 > * Context matters: “Peel the potatoes” is polite if the hearer has asked what to do.
 
-Politeness Strategies
+#### Politeness Strategies
 However, politeness is not determined solely by the linguistic form of an utterance; contextual factors also play a crucial role. In situations where the hearer has invited the directive (e.g., asking what task to do next), an otherwise impolite imperative may be received as entirely appropriate.
 
 
-To mitigate the force of directives and reduce their face-threatening potential, speakers often use a variety of politeness strategies. One common approach involves the use of softening expressions such as please, excuse me, and thank you. These expressions can reduce the perceived imposition of a directive. For example, "Sit down, please" or "Excuse me, do you have a stapler?" demonstrate how direct commands can be made more polite. The phrase "thank you" is particularly interesting when used in directives, as it anticipates compliance and expresses gratitude in advance, thereby softening the request.
+To mitigate the force of directives and reduce their face-threatening potential, speakers often use a variety of politeness strategies. One common approach involves the use of softening expressions such as please, excuse me, and thank you. These expressions can reduce the perceived imposition of a directive. For example, *"Sit down, please"* or *"Excuse me, do you have a stapler?"* demonstrate how direct commands can be made more polite. The phrase ***"thank you"*** is particularly interesting when used in directives, as it anticipates compliance and expresses gratitude in advance, thereby softening the request.
 
-Additionally, English speakers frequently employ formulaic yes/no questions beginning with modals such as could or would as a polite alternative to imperatives. Phrasings like "Could you ring her back?" or "Would you look at page forty-three?" are perceived as more courteous. These can be further mitigated by the addition of polite adverbials like please, possibly, or perhaps, which enhance the speaker's tact by acknowledging the potential imposition of the request.
+Additionally, English speakers frequently employ formulaic yes/no questions beginning with modals such as could or would as a polite alternative to imperatives. Phrasings like *"Could you ring her back?"* or *"Would you look at page forty-three?"* are perceived as more courteous. These can be further mitigated by the addition of polite adverbials like please, possibly, or perhaps, which enhance the speaker's tact by acknowledging the potential imposition of the request.
 
-In sum, the passage emphasizes that politeness in communication is shaped by a complex interplay of linguistic strategies, social context, and pragmatic principles such as Leech’s tact maxim. Speakers use various mechanisms to balance the need to be understood with the need to maintain interpersonal harmony.
 
-Additionally, there is also a further level of politeness in speech, where speakers go beyond formulaic polite constructions and instead employ highly indirect strategies, known as "off-record" speech acts. According to Brown and Levinson (1987), such utterances rely on hints, vagueness, or ambiguity, inviting the hearer to infer additional meanings without anything being explicitly stated. This approach reduces the face-threatening nature of the act by avoiding direct imposition.
+Moreover, there is also a further level of politeness in speech, where speakers go beyond formulaic polite constructions and instead employ highly indirect strategies, known as "off-record" speech acts. According to Brown and Levinson (1987), such utterances rely on hints, vagueness, or ambiguity, inviting the hearer to infer additional meanings without anything being explicitly stated. This approach reduces the face-threatening nature of the act by avoiding direct imposition.
 
-An example is a statement like 
+An example is a statement like
 >“It’s cold in here,” 
 
 which may imply a request to shut a window or turn on the heat, though nothing is directly asked. Similarly, 
@@ -152,14 +151,14 @@ or
 soften the imposition through indirectness and hedging. While these utterances are usually understood correctly, the more indirect they are, the greater the risk of misinterpretation. Nonetheless, many speakers are willing to accept this risk to preserve politeness and tact, preferring ambiguity over the potential social cost of directness.
 
 
-Other kinds of politeness
+#### Other kinds of politeness
 
-Further section section extends the discussion of politeness beyond tact, highlighting additional motivations for polite language as outlined by Geoffrey Leech (1983). Politeness in language is not solely governed by efforts to minimize face-threatening acts (FTAs) but also includes expressions of gratitude, responses to compliments, and acts involving generosity and approbation.
+Further section section extends the discussion of politeness beyond tact, highlighting additional motivations for polite language as outlined by *Geoffrey Leech* (1983). Politeness in language is not solely governed by efforts to minimize **face-threatening acts (FTAs)** but also includes expressions of gratitude, responses to compliments, and acts involving generosity and approbation.
 
-Expressions of gratitude, especially following the receipt or refusal of favors, are commonly realized through variations of thank you or thanks, often intensified with adverbials like very much. Even when offers are declined, polite speakers use phrases such as no thank you to mitigate the FTA of rejecting generosity, sometimes even adding explanations to further soften the refusal. Compliments also present a politeness challenge because they can violate the Modesty Maxim—“minimize praise of self; maximize dispraise of self.” To maintain modesty, recipients of compliments often respond not only with gratitude but also with remarks that downplay their own achievements, as illustrated by speakers who acknowledge compliments while emphasizing the contributions of others or calling the praise “too generous.”
+Expressions of **gratitude**, especially following the receipt or refusal of favors, are commonly realized through variations of thank you or thanks, often intensified with adverbials like very much. Even when offers are declined, polite speakers use phrases such as no thank you to mitigate the FTA of rejecting generosity, sometimes even adding explanations to further soften the refusal. Compliments also present a politeness challenge because they can violate the *Modesty Maxim—“minimize praise of self; maximize dispraise of self.”* To maintain modesty, recipients of compliments often respond not only with gratitude but also with remarks that downplay their own achievements, as illustrated by speakers who acknowledge compliments while emphasizing the contributions of others or calling the praise **“too generous.”**
 
-Leech’s Generosity Maxim—“minimize benefit to self; maximize cost to self”—explains why offers to lend something are direct and acceptable, whereas requests for help often require hedging and mitigation, such as the use of please or promises of repayment. Similarly, the Approbation Maxim—“minimize dispraise of others; maximize praise of others”—accounts for the common rhetorical strategy of praising soldiers and their families in political discourse even while criticizing war policies. Politicians and public figures often preface or qualify criticisms of war with affirmations of respect for military personnel, as seen in examples where the valor of soldiers is emphasized to avoid the appearance of disrespect.
+*Leech’s Generosity Maxim—“minimize benefit to self; maximize cost to self”*—explains why offers to lend something are direct and acceptable, whereas requests for help often require hedging and mitigation, such as the use of please or promises of repayment. Similarly, the Approbation Maxim—“minimize dispraise of others; maximize praise of others”—accounts for the common rhetorical strategy of praising soldiers and their families in political discourse even while criticizing war policies. Politicians and public figures often preface or qualify criticisms of war with affirmations of respect for military personnel, as seen in examples where the valor of soldiers is emphasized to avoid the appearance of disrespect.
 
-However, Leech’s framework is not without criticism. Brown and Levinson (1987) argue that the proliferation of maxims to account for every linguistic regularity can make pragmatic theory overly flexible and unfocused. This critique mirrors earlier concerns about Grice’s cooperative principle, suggesting that if theorists continually invent new maxims to account for exceptions, the theory risks losing its explanatory power.
+However, Leech’s framework is not without criticism. *Brown and Levinson (1987)* argue that the proliferation of maxims to account for every linguistic regularity can make pragmatic theory overly flexible and unfocused. This critique mirrors earlier concerns about **Grice’s cooperative principle**, suggesting that if theorists continually invent new maxims to account for exceptions, the theory risks losing its explanatory power.
 
-In summary, while Leech’s maxims offer valuable insights into various forms of polite language use—beyond mere tact—they also highlight tensions in pragmatic theory about how best to model the complexity of real-world communication.
+In summary, while Leech’s maxims offer valuable insights into various forms of polite language use—beyond mere tact—they also highlight tensions in pragmatic theory about how best to model the **complexity of real-world communication.**
