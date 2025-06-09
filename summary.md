@@ -43,7 +43,10 @@ Meyer (2009: 54) explains the felicity based on the example of apology.
 * *Sincerity condition:* A key component of any apology is that the speaker be sincerely sorry for what he/she has done.
 * *Essential condition:* If the apology is not perceived as sincere, then the speech act will ultimately fail: while it may have the form of an apology and be directed towards some past situation requiring an apology, if it is not accepted as an apology, the speech act becomes meaningless.” (2009: 54).
 While every speech act must meet all the necessary conditions to be successful, different types of speech acts often fulfill these conditions in distinct ways.
-## The cooperative principle 
+
+---
+
+### The cooperative principle 
 Philosopher **H. Paul Grice** proposed the **Cooperative Principle** to explain how people work together in conversation. He observed that communication usually involves **a shared purpose or direction** (Grice 1989: 26), and participants cooperate to make exchanges meaningful.
 
 Grice identified four rules, or **maxims**, that people generally follow:
