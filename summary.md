@@ -131,11 +131,11 @@ Additionally, English speakers frequently employ formulaic yes/no questions begi
 Moreover, there is also a further level of politeness in speech, where speakers go beyond formulaic polite constructions and instead employ highly indirect strategies, known as "off-record" speech acts. According to Brown and Levinson (1987), such utterances rely on hints, vagueness, or ambiguity, inviting the hearer to infer additional meanings without anything being explicitly stated. This approach reduces the face-threatening nature of the act by avoiding direct imposition.
 
 An example is a statement like
->*“It’s cold in here,” *
+>*“It’s cold in here,”*
 
 which may imply a request to shut a window or turn on the heat, though nothing is directly asked. Similarly, 
 
->*"After I'm done with my coffee" *
+>*"After I'm done with my coffee"*
 
 can serve as a non-confrontational way of delaying a request, with a follow-up question like 
 
