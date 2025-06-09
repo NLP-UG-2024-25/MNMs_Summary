@@ -99,6 +99,9 @@ For instance, titles like *Professor* or *Dr.* signal **power differences**, whi
 
 
 ### Levels of Impoliteness, Face-Threatening Acts (FTAs), and Tact
+
+![Positive and Negative Face](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSmyUXctjutZldwcB95f3JA7EEwTAJdyRZcA&s)
+
 The subchapter explores how levels of impoliteness and face-threatening acts (FTAs) are influenced not only by social factors such as power dynamics and social distance but also by the speaker's willingness to engage in an FTA. The example of telling a guest directly to leave versus using a more indirect strategy illustrates how speakers often mitigate potentially impolite utterances by employing polite language. This practice relates closely to Geoffrey Leech’s (1983) concept of tact, a key component of his politeness principle.
 
 * Example: Saying “You’ve been here long enough. Leave!” is direct and impolite, while “I have to get up early… let’s call it a night” softens the message.
