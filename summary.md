@@ -173,3 +173,8 @@ Expressions of **gratitude**, especially following the receipt or refusal of fav
 However, Leech’s framework is not without criticism. *Brown and Levinson (1987)* argue that the proliferation of maxims to account for every linguistic regularity can make pragmatic theory overly flexible and unfocused. This critique mirrors earlier concerns about **Grice’s cooperative principle**, suggesting that if theorists continually invent new maxims to account for exceptions, the theory risks losing its explanatory power.
 
 In summary, while Leech’s maxims offer valuable insights into various forms of polite language use – beyond mere tact – they also highlight tensions in pragmatic theory about how best to model the **complexity of real-world communication.**
+
+#### Speaker variables
+Sociolinguistics studies how social variation in language is influenced by **speaker variables**git  such as gender, age, social class, ethnicity, education, and social networks. While these variables may appear distinct, they often overlap and can be complex to define. The study of speaker variables is crucial in understanding how individuals’ characteristics shape their language usage.
+
+Sociolinguistics suggests language reflects identity, while critical theory posits language constitutes identity. Gender, influenced by ideology and sexual identity, impacts language usage. Additionally, social class, age, and gender all influence language patterns, with no single variable fully explaining usage.
