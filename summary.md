@@ -176,3 +176,12 @@ Expressions of **gratitude**, especially following the receipt or refusal of fav
 However, Leech’s framework is not without criticism. *Brown and Levinson (1987)* argue that the proliferation of maxims to account for every linguistic regularity can make pragmatic theory overly flexible and unfocused. This critique mirrors earlier concerns about **Grice’s cooperative principle**, suggesting that if theorists continually invent new maxims to account for exceptions, the theory risks losing its explanatory power.
 
 In summary, while Leech’s maxims offer valuable insights into various forms of polite language use – beyond mere tact – they also highlight tensions in pragmatic theory about how best to model the **complexity of real-world communication.**
+
+#### Speaker variables
+Sociolinguistics studies how social variation in language is influenced by **speaker variables** such as gender, age, social class, ethnicity, education, and social networks. While these variables may appear distinct, they often overlap and can be complex to define. The study of speaker variables is crucial in understanding how individuals’ characteristics shape their language usage.
+
+Sociolinguistics suggests language reflects identity, while critical theory posits language constitutes identity. Gender, influenced by ideology and sexual identity, impacts language usage. Additionally, social class, age, and gender all influence language patterns, with no single variable fully explaining usage.
+
+Michael A., a working-class Bostonian, exemplifies sociolinguistic variation through his speech patterns. His non-rhotic pronunciation, influenced by his region and social class, reflects historical linguistic trends and social stratification. What is more, his age and gender affect his language use, from vocabulary choices to discourse markers, highlighting the interconnectedness of speaker variables in sociolinguistic research.
+
+Teresa B., an African-American woman from Atlanta, speaks General American English, a variety associated with no specific region, ethnicity, or social class. This linguistic choice, influenced by her education and professional environment, allows her to navigate diverse social contexts and engage in style-shifting, adjusting her speech based on the audience and setting. Despite the advantages of this linguistic dexterity, Teresa grapples with the controversial status of African American Vernacular English (AAVE) within her community and society at large.
